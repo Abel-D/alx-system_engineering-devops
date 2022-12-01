@@ -1,0 +1,12 @@
+#!/bin/bash
+x=find -regex '.*/.*\.html'
+for i in x
+do
+if [[-f "../${i}]]
+d=-f "../${i}"
+if [i -nt d]
+cp ../ i
+fi
+cp ../ i
+fi
+done

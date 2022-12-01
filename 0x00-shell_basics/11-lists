@@ -1,6 +1,5 @@
 #!/bin/bash
 {
-ls -a -l
-ls ../ -l
+ls -la . ..
 ls /boot -l
 }
