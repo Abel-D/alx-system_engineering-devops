@@ -1,2 +1,2 @@
 #!/bin/bash
-let res=128+$TRUEKNOWLEDGE | echo $res
+let res=128+${TRUEKNOWLEDGE} | echo $res
