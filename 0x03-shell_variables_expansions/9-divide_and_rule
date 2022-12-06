@@ -1,3 +1,2 @@
 #!/bin/bash
-let res=$POWER/$DIVIDE
-echo $res
+let res=$POWER/$DIVIDE | echo $res
