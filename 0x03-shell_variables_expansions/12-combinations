@@ -1,2 +1,2 @@
 #!/bin/bash
-ls {a..z}{a..z} | grep -v "oo"
+ls {a..z}{a..z} |grep -P 'oo'|xargs 'oo'
