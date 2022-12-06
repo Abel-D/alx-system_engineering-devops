@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Rl */ | wc -l  
+du -h -d 1|wc -l  
