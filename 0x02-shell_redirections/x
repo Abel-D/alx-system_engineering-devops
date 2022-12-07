@@ -1,2 +1,0 @@
-#!/bin/bash
-sort -t$'\t' -k4 -nr $1|uniq -c|head -n 2
