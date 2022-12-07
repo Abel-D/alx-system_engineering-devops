@@ -1,2 +1,4 @@
 #!/bin/bash
-if[[$NUM!=~ ^[+-]?[0-9]+\.?[0-9]*$]]  then echo $NUM.00 fi
+if [echo $NUM|grep -P '.' == true];then
+echo $NUM.00
+fi
