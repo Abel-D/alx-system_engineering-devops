@@ -1,5 +1,0 @@
-#!/bin/bash
-touch $file
-cat /home/common/common >> $file
-chmod u+x *
-nano $file
