@@ -1,0 +1,4 @@
+#!/bin/bash
+ascii= echo $1| od -An -vtu1 
+rot=$(($ascii+13))
+printf "\x$(printf %x $rot)"
