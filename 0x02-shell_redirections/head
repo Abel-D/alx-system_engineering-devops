@@ -1,0 +1,54 @@
+.:
+total 8
+-rw-r--r-- 1 root root    0 Dec  7 18:45 tmp
+-rwxr--r-- 1 root root  118 Dec  7 18:45 103-the_biggest_fan
+-rw-r--r-- 1 root root 1359 Dec  7 18:32 r
+-rwxr--r-- 1 root root   86 Dec  7 17:50 100-empty_casks
+-rwxr--r-- 1 root root   42 Dec  6 21:32 10-no_more_js
+-rwxr--r-- 1 root root   64 Dec  6 21:27 18-letteronly
+-rwxr--r-- 1 root root   43 Dec  6 21:10 17-hidethisword
+-rwxr--r-- 1 root root   46 Dec  6 21:03 15-countthatword
+-rwxr--r-- 1 root root   25 Dec  6 20:52 13-unique
+-rwxr--r-- 1 root root   31 Dec  6 20:51 11-directories
+-rwxr--r-- 1 root root   34 Dec  6 20:41 8-cwd_state
+-rwxr--r-- 1 root root   74 Dec  6 20:38 7-file
+-rwxr--r-- 1 root root   80 Dec  6 18:16 setup
+-rwxr-xr-x 1 root root   30 Dec  6 17:50 1-confused_smiley
+-rwxr--r-- 1 root root   39 Dec  6 17:50 README.md
+-rwxr--r-- 1 root root   39 Dec  5 22:25 16-whatsnext
+-rwxr--r-- 1 root root   34 Dec  5 21:53 14-findthatword
+-rwxr--r-- 1 root root   31 Dec  5 20:02 12-newest_files
+-rwxr--r-- 1 root root   37 Dec  5 19:29 9-duplicate_last_line
+-rwxr-xr-x 1 root root   36 Dec  5 19:25 6-third_line
+-rwxr-xr-x 1 root root   35 Dec  5 19:25 5-firstlines
+-rwxr-xr-x 1 root root   35 Dec  5 19:25 4-lastlines
+-rwxr-xr-x 1 root root   40 Dec  5 19:25 3-twofiles
+-rwxr-xr-x 1 root root   29 Dec  5 19:25 2-hellofile
+-rwxr-xr-x 1 root root   36 Dec  5 19:25 0-hello_world
+     1	.:
+     2	total 8
+     3	-rw-r--r-- 1 root root    0 Dec  7 18:45 tmp
+     4	-rwxr--r-- 1 root root  118 Dec  7 18:45 103-the_biggest_fan
+     5	-rw-r--r-- 1 root root 1359 Dec  7 18:32 r
+     6	-rwxr--r-- 1 root root   86 Dec  7 17:50 100-empty_casks
+     7	-rwxr--r-- 1 root root   42 Dec  6 21:32 10-no_more_js
+     8	-rwxr--r-- 1 root root   64 Dec  6 21:27 18-letteronly
+     9	-rwxr--r-- 1 root root   43 Dec  6 21:10 17-hidethisword
+    10	-rwxr--r-- 1 root root   46 Dec  6 21:03 15-countthatword
+    11	-rwxr--r-- 1 root root   25 Dec  6 20:52 13-unique
+    12	-rwxr--r-- 1 root root   31 Dec  6 20:51 11-directories
+    13	-rwxr--r-- 1 root root   34 Dec  6 20:41 8-cwd_state
+    14	-rwxr--r-- 1 root root   74 Dec  6 20:38 7-file
+    15	-rwxr--r-- 1 root root   80 Dec  6 18:16 setup
+    16	-rwxr-xr-x 1 root root   30 Dec  6 17:50 1-confused_smiley
+    17	-rwxr--r-- 1 root root   39 Dec  6 17:50 README.md
+    18	-rwxr--r-- 1 root root   39 Dec  5 22:25 16-whatsnext
+    19	-rwxr--r-- 1 root root   34 Dec  5 21:53 14-findthatword
+    20	-rwxr--r-- 1 root root   31 Dec  5 20:02 12-newest_files
+    21	-rwxr--r-- 1 root root   37 Dec  5 19:29 9-duplicate_last_line
+    22	-rwxr-xr-x 1 root root   36 Dec  5 19:25 6-third_line
+    23	-rwxr-xr-x 1 root root   35 Dec  5 19:25 5-firstlines
+    24	-rwxr-xr-x 1 root root   35 Dec  5 19:25 4-lastlines
+    25	-rwxr-xr-x 1 root root   40 Dec  5 19:25 3-twofiles
+    26	-rwxr-xr-x 1 root root   29 Dec  5 19:25 2-hellofile
+    27	-rwxr-xr-x 1 root root   36 Dec  5 19:25 0-hello_world

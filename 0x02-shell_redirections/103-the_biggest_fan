@@ -1,8 +1,2 @@
 #!/bin/bash
-ls -lRt $1>tmp
-x=1
-while IFS=$'\t' read -r -a tmp && [ $x -le 11 ]
-do
-echo "${tmp[0]}"
-x=$(( $x + 1 ))
-done 
+sort -t$'\t' -k2 -nr $1|uniq -c|head -n 11
