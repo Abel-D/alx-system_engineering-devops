@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth 2 -type f -name "*.gif" -exec ls -lah {} \;
+find . -maxdepth 1 -name "*.gif" -type f -exec ls -lah {} \;
